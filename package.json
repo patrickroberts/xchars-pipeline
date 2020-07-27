@@ -1,0 +1,11 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node ."
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/node": "^7.10.5",
+    "@babel/plugin-proposal-pipeline-operator": "^7.10.5"
+  }
+}
